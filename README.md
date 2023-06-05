@@ -31,10 +31,50 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I48ZWB1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+New ticket created by ficticious employee Wonder Woman (asking for help with software update).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/mcKVb4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Employee Super Man must reset his password.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6AumXvs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Logged into osTicket as an agent/admin.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/m6BRCxP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this example:  assigned ticket to agent Nick Stach, changed SLA to Sev-C, repied to Systems, marked as open.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/czsdNg2.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+.Updated osTicket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/B1T5wXe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Resolved issue demonstrated the end of an osTicket lifeczcle (in this case resolved).
 </p>
 <br />
 
